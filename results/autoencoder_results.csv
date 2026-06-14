@@ -1,0 +1,2 @@
+method,input_dim,latent_dim,train_size,test_size,reconstruction_mse,epochs,batch_size,learning_rate,training_time_seconds
+Autoencoder,784,32,60000,2000,0.010139469988644123,20,128,0.001,164.42070984840393

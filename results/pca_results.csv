@@ -1,0 +1,2 @@
+method,input_dim,latent_dim,train_size,test_size,explained_variance_ratio,reconstruction_mse,processing_time_seconds
+PCA,784,32,10000,2000,0.826647937297821,0.015454547479748726,0.16457819938659668

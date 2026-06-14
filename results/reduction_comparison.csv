@@ -1,0 +1,3 @@
+method,input_dim,latent_dim,train_size,test_size,explained_variance_ratio,reconstruction_mse,processing_time_seconds,epochs,batch_size,learning_rate,training_time_seconds
+PCA,784,32,10000,2000,0.826647937297821,0.0154545474797487,0.1645781993865966,,,,
+Autoencoder,784,32,60000,2000,,0.0101394699886441,,20.0,128.0,0.001,164.42070984840393
