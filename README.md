@@ -19,7 +19,7 @@
 
 ---
 
-# 📖 Deskripsi Proyek
+# Deskripsi Proyek
 
 Proyek ini bertujuan membandingkan performa **Principal Component Analysis (PCA)** dan **Autoencoder** sebagai metode reduksi dimensi pada dataset FashionMNIST.
 
@@ -33,7 +33,7 @@ Eksperimen dilakukan menggunakan:
 
 ---
 
-# 🎯 Tujuan Eksperimen
+# Tujuan Eksperimen
 
 1. Mengimplementasikan PCA pada FashionMNIST.
 2. Mengimplementasikan Autoencoder menggunakan PyTorch.
@@ -43,7 +43,7 @@ Eksperimen dilakukan menggunakan:
 
 ---
 
-# 🗂 Struktur Proyek
+# Struktur Proyek
 
 ```text
 PCA-vs-Autoencoder-FashionMNIST/
@@ -71,7 +71,7 @@ PCA-vs-Autoencoder-FashionMNIST/
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 Dataset yang digunakan adalah **FashionMNIST**.
 
@@ -100,7 +100,7 @@ Kelas FashionMNIST:
 
 ---
 
-# ⚙️ Metodologi
+# Metodologi
 
 ## PCA
 
@@ -162,7 +162,7 @@ ke dalam ruang dua dimensi.
 
 ---
 
-# 📈 Hasil Eksperimen
+# Hasil Eksperimen
 
 ## PCA
 
@@ -188,7 +188,7 @@ ke dalam ruang dua dimensi.
 
 ---
 
-# 🖼 Hasil Rekonstruksi
+# Hasil Rekonstruksi
 
 ## PCA Reconstruction
 
@@ -202,7 +202,7 @@ ke dalam ruang dua dimensi.
 
 ---
 
-# 🌌 Visualisasi t-SNE
+# Visualisasi t-SNE
 
 ## Raw Pixel
 
@@ -238,7 +238,7 @@ ke dalam ruang dua dimensi.
 
 ---
 
-# 🔍 Analisis
+# Analisis
 
 Berdasarkan hasil eksperimen:
 
@@ -250,7 +250,7 @@ Berdasarkan hasil eksperimen:
 
 ---
 
-# 🚀 Cara Menjalankan
+# Cara Menjalankan
 
 Install dependency:
 
@@ -269,7 +269,7 @@ Jalankan notebook secara berurutan:
 
 ---
 
-# 💻 Environment
+# Environment
 
 ```text
 Python 3.11
@@ -281,7 +281,7 @@ GPU NVIDIA GeForce RTX 3050 Laptop GPU
 
 ---
 
-# 👨‍🎓 Penulis
+# Penulis
 
 **Ida Bagus Gede Dhananjaya**  
 NIM: 2305551120  
@@ -290,6 +290,6 @@ Universitas Udayana
 
 ---
 
-# 📄 Lisensi
+# Lisensi
 
 Proyek ini dibuat untuk keperluan akademik pada mata kuliah **Data Mining**.
